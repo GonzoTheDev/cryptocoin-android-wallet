@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tx_green">@color/take</color>
+    <color name="tx_red">@color/give</color>
+    <color name="tx_pending">@color/moneroFab</color>
+    <color name="tx_failed">@color/moneroBlack</color>
+
+    <color name="gradientCyan">#78C8F4</color>
+    <color name="gradientPurple">#00cc66</color>
+
+    <color name="trafficGray">#9B9B9B</color>
+
+    <color name="take">#00cc66</color>
+    <color name="give">#2eaaf4</color>
+
+    <color name="moneroWhite">#ffffff</color>
+    <color name="moneroBlack">#000000</color>
+    <color name="moneroBlue">#1F4E97</color>
+    <color name="moneroGray">#FD9B9B9B</color>
+
+    <color name="moneroStreetA">#D81F0759</color>
+    <color name="moneroStreetB">#D819001E</color>
+
+    <color name="dotGray">#FF4A4A4A</color>
+
+    <color name="moneroFab">#61000000</color>
+    <color name="moneroText">#FF616161</color>
+
+
+    <color name="colorPrimaryDark">#00cc66</color>
+    <!--color name="colorAccent">#009ADA</color-->
+    <color name="colorAccent">#02d76c</color>
+
+    <color name="white">#ffffff</color>
+</resources>
