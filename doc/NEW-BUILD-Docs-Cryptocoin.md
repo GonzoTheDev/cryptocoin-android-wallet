@@ -10,12 +10,19 @@ This is a guide to compiling the external depends for building cryptocoin androi
 
 ### Create Some Missing Directories and Clone Crypto Source ###
 `cd cryptocoin-android-wallet/external-libs`
+
 `mkdir build`
+
 `mkdir build/src`
+
 `cd build`
+
 `git clone --recursive https://github.com/GonzoTheDev/crypto`
+
 `cd ..`
+
 `make -j <Thread Count (2x cores)>`
+
 
 After that you need to copy all .a files into their respective folders in /external-libs, then import the entire cryptocoin-android-wallet folder into android studio and build the APK.
 
