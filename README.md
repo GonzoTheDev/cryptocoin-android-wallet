@@ -26,7 +26,7 @@ The official cryptocoin client shows the same behaviour.
 
 ### HOW TO BUILD
 
-See [the instructions](doc/BUILDING-external-libs.md)
+See [the instructions](doc/NEW-BUILD-Docs-Cryptocoin.md)
 
 Then, fire up Android Studio and build the APK.
 
