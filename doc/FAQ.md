@@ -5,7 +5,7 @@
 
 ## What features does it have?
 
-- Uses Cryptocoin v3.0.2
+- Uses Cryptocoin v3.2.1
 - Support for Android >= 5.0
 - Mainnet
 - Recover wallets from mnemonic seed or from keys
