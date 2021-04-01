@@ -2,7 +2,7 @@
 Android Wallet for $CRYPTO
 
 ### QUICKSTART
-- Download the APK for the most current release [here](https://github.com/gonzothedev/crypto-android-wallet/releases/latest) and install it
+- Download the APK for the most current release [here](https://crypt-o-coin.cash/assets/downloads/Cryptocoin_Wallet-3x2x1_universal.apk) and install it
 - Run the App and tap + button to Create new wallet or restore from 25 word seeds
 - Advanced users can copy over synced wallet files (all files) onto sdcard in directory Cryptocoin Wallet (created first time App is started)
 - See the [FAQ](doc/FAQ.md)
